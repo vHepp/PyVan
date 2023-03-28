@@ -13,3 +13,4 @@ info(arr)
 
 print("Screw you Ivan")
 print("Nothing")
+print("Something")
