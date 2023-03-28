@@ -12,3 +12,4 @@ arr = [[9, 8], [1, 2]]
 info(arr)
 
 print("Screw you Ivan")
+print("Nothing")
